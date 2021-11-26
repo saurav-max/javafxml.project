@@ -57,5 +57,6 @@ public class gui {
 		
 		
 	}
+}
 
-}![javafx](https://user-images.githubusercontent.com/54424730/143619265-4a9369ad-ea3d-4237-9f44-a0eb0975d356.png)
+![javafx](https://user-images.githubusercontent.com/54424730/143619265-4a9369ad-ea3d-4237-9f44-a0eb0975d356.png)
